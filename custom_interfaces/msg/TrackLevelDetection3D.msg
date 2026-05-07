@@ -1,0 +1,2 @@
+vision_msgs/Detection3D detection
+bool is_stem_within_cutting_zone
